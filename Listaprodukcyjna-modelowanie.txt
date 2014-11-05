@@ -1,0 +1,23 @@
+﻿1)mieszkanie
+* kubek
+* fotel
+* stolik na kubek
+* drzwi
+* ściany
+* TV
+* półka pod TV
+* komoda
+* obraz?
+* gazeta
+* wycieraczka
+* particle wybuchu
+2)sala przesłuchań
+* stół
+* lampka
+* krzesło
+* drzwi
+3)postacie
+* postać główna
+* agent1 + atrybut (np. pałka)
+* agent2 + atrybut
+* agent3 + atrybut
