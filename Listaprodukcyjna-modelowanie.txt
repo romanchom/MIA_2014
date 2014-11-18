@@ -1,10 +1,10 @@
 ﻿1)mieszkanie
-* kubek
+* kubek (done) Łukasz
 * fotel
 * stolik na kubek
 * drzwi
 * ściany
-* TV
+* TV (done) Łukasz
 * półka pod TV
 * komoda
 * obraz?
