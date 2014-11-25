@@ -1,7 +1,7 @@
 ﻿1)mieszkanie
 * kubek (done) Łukasz
-* fotel
-* stolik na kubek (doing) Łukasz
+* fotel (doing) Łukasz
+* stolik na kubek 
 * drzwi
 * ściany
 * TV (done) Łukasz
