@@ -17,7 +17,7 @@
 * krzesło
 * drzwi
 3)postacie
-* postać główna
+* postać główna (doing) Łukasz
 * agent1 + atrybut (np. pałka)
 * agent2 + atrybut
 * agent3 + atrybut
