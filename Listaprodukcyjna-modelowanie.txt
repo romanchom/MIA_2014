@@ -1,7 +1,7 @@
 ﻿1)mieszkanie
 * kubek (done) Łukasz
 * fotel
-* stolik na kubek
+* stolik na kubek (doing) Łukasz
 * drzwi
 * ściany
 * TV (done) Łukasz
@@ -17,7 +17,7 @@
 * krzesło
 * drzwi
 3)postacie
-* postać główna (doing) Łukasz
+* postać główna (in progress) Łukasz
 * agent1 + atrybut (np. pałka)
 * agent2 + atrybut
 * agent3 + atrybut
