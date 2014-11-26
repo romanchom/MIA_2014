@@ -12,10 +12,10 @@
 * wycieraczka
 * particle wybuchu
 2)sala przesłuchań
-* stół
-* lampka
-* krzesło
-* drzwi
+* stół (in progress) Filip
+* lampka (in progress) Filip
+* krzesło (in progress) Filip
+* drzwi (in progress) Filip
 3)postacie
 * postać główna (in progress) Łukasz
 * agent1 + atrybut (np. pałka)
