@@ -7,7 +7,7 @@
 * TV (done) Łukasz
 * półka pod TV
 * komoda
-* obraz?
+* obraz (in progress) Filip
 * gazeta
 * wycieraczka
 * particle wybuchu
