@@ -2,20 +2,20 @@
 * kubek (done) Łukasz
 * fotel (done) Łukasz
 * stolik na kubek (done) Łukasz
-* drzwi
-* ściany
+* drzwi (done) Filip
+* ściany (done?)
 * TV (done) Łukasz
-* półka pod TV (need texture) Bartek
-* komoda (need texture) Bartek
-* obraz (in progress) Filip
-* gazeta
-* wycieraczka
+* półka pod TV (done) Bartek
+* komoda (done) Bartek
+* obraz (done) Filip
+* gazeta (done) Filip
+* wycieraczka (done) Filip
 * particle wybuchu
 2)sala przesłuchań
-* stół (in progress) Filip
-* lampka (in progress) Filip
-* krzesło (in progress) Filip
-* drzwi (in progress) Filip
+* stół (done) Filip
+* lampka (done) Filip
+* krzesło (done) Filip
+* drzwi (done) Filip
 3)postacie
 * postać główna (in progress) Łukasz
 * agent1 + atrybut (np. pałka)
