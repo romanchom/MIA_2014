@@ -7,6 +7,7 @@
 * TV (done) Łukasz
 * półka pod TV (done) Bartek
 * komoda (done) Bartek
+* roślinka (done) Filip
 * obraz (done) Filip
 * gazeta (done) Filip
 * wycieraczka (done) Filip
