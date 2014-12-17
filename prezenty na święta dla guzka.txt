@@ -1,0 +1,18 @@
+Roman:
+gazeta - skin, animki
+portale - texturka i odpalanie z portalguna,
+zajebiste particle wybuchu
+
+£ukasz:
+animacja postaci g³ównej, obie sceny
+
+Filip:
+scena z kamerami w unity, prze³¹czenie miêdzy ujêciami
+dŸwiêki
+kask i pa³ka - do 6k poly,
+lista modeli z masakryczn¹ liczb¹ poly
+animacje torturatora
+
+Bartek:
+animacje ludków w scenie 1,
+chmurki
