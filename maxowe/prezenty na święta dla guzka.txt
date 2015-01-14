@@ -7,11 +7,11 @@ zajebiste particle wybuchu
 animacja postaci g³ównej, obie sceny
 
 Filip:
-scena z kamerami w unity, prze³¹czenie miêdzy ujêciami
+scena z kamerami w unity, prze³¹czenie miêdzy ujêciami - DONE
 dŸwiêki
-kask i pa³ka - do 6k poly,
-lista modeli z masakryczn¹ liczb¹ poly
-animacje torturatora
+kask i pa³ka (do 6k poly) - DONE
+optymalizacje modeli - DONE
+animacje torturatora - DONE
 
 Bartek:
 animacje ludków w scenie 1,

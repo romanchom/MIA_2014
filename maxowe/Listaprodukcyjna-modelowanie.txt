@@ -17,6 +17,8 @@
 * lampka (done) Filip
 * krzesło (done) Filip
 * drzwi (done) Filip
+* pałka (done) Filip
+* kask (done) Filip
 3)postacie
 * postać główna (in progress) Łukasz
 * agent1 + atrybut (np. pałka)
