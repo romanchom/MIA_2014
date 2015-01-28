@@ -30,7 +30,7 @@ public class Take01Events : MonoBehaviour {
         Destroy(cupInHand);
         cupOnBoard.SetActive(true);
         PositionCorrection();
-        Debug.Log("position corrected");
+        //Debug.Log("position corrected");
     }
 
     void PositionCorrection()
